@@ -1,0 +1,1 @@
+Generate an SEO-optimized blog title for the topic: {topic}, targeting {audience} with a {tone} tone.

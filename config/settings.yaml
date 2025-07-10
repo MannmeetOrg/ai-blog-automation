@@ -1,0 +1,7 @@
+ai_model: "gpt-4"
+image_model: "dalle"
+serpapi_key: "YOUR_SERPAPI_KEY"
+devto_api_key: "YOUR_DEVTO_API_KEY"
+seo_tools:
+  - "semrush"
+  - "ahrefs"
